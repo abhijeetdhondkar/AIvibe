@@ -1,1 +1,1 @@
-# AIvibe
+# vibeAI
